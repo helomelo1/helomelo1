@@ -1,8 +1,8 @@
-# Hi there, I'm [Your Name] 👋
+# Hello there, I'm Shrihari 👋
 
 ## 👨‍💻 About Me
 
-[Write a brief introduction about yourself here.]
+I am a Deep Learning practitioner working in Multimodal AI. I am passionate about the mathematics governing intelligent systems and am currently focused on expanding my work into Quantitative Finance and Large Language Models.
 
 ---
 
