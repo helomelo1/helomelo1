@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a Deep Learning practitioner working in Multimodal AI. I am passionate about the mathematics governing intelligent systems and am currently focused on expanding my work into Quantitative Finance and Large Language Models. I am currently an penultimate year student at IIT Jodhpur majoring in Electrical Engineering.
+I am a Deep Learning practitioner working in Multimodal AI. I am passionate about the mathematics governing intelligent systems and am currently focused on expanding my work into Quantitative Finance and Large Language Models. I am currently a penultimate year student at IIT Jodhpur majoring in Electrical Engineering.
 
 ---
 
