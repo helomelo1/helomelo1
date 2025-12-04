@@ -6,16 +6,6 @@
 
 ---
 
-## 🔭 Currently Working On
-
-- [What you're currently working on]
-
-## 🌱 Currently Learning
-
-- [What you're currently learning]
-
----
-
 ## 💼 Skills
 
 - [Skill 1]
@@ -27,28 +17,6 @@
 ## 👯 Looking to Collaborate On
 
 - [Types of projects you'd like to collaborate on]
-
-## 💬 Ask Me About
-
-- [Topics you can help with]
-
----
-
-## 📫 How to Reach Me
-
-- **Email:** [your.email@example.com]
-- **LinkedIn:** [Your LinkedIn URL]
-- **Twitter:** [@YourHandle]
-
----
-
-## 😄 Pronouns
-
-[Your pronouns]
-
-## ⚡ Fun Fact
-
-[Something interesting about you]
 
 ---
 
