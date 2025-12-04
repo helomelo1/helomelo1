@@ -1,22 +1,16 @@
 # Hello there, I'm Shrihari 👋
 
-## 👨‍💻 About Me
+## About Me
 
-I am a Deep Learning practitioner working in Multimodal AI. I am passionate about the mathematics governing intelligent systems and am currently focused on expanding my work into Quantitative Finance and Large Language Models.
-
----
-
-## 💼 Skills
-
-- [Skill 1]
-- [Skill 2]
-- [Skill 3]
+I am a Deep Learning practitioner working in Multimodal AI. I am passionate about the mathematics governing intelligent systems and am currently focused on expanding my work into Quantitative Finance and Large Language Models. I am currently an penultimate year student at IIT Jodhpur majoring in Electrical Engineering.
 
 ---
 
-## 👯 Looking to Collaborate On
+## Currently Learning and Working On...
 
-- [Types of projects you'd like to collaborate on]
+  1. How LLMs work?
+  2. Use of deep learning models in high frequency and swing trading.
+  3. Multimodal Survival Prediction using WSIs and Pathology Reports
 
 ---
 
