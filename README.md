@@ -9,8 +9,8 @@ I am a Deep Learning practitioner working in Multimodal AI. I am passionate abou
 ## Currently Learning and Working On...
 
   1. How LLMs work?
-  2. Use of deep learning models in high frequency and swing trading.
-  3. Multimodal Survival Prediction using WSIs and Pathology Reports.
+  2. Started going down the Bayesian Learning Rabbit Hole
+  3. Deepfake Detection Methodologies
 
 ---
 
