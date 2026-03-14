@@ -9,8 +9,7 @@ I am a Deep Learning practitioner working in Multimodal AI. I am passionate abou
 ## Currently Learning and Working On...
 
   1. How LLMs work?
-  2. Started going down the Bayesian Learning Rabbit Hole
-  3. Deepfake Detection Methodologies
+  2. Deepfake Detection Methodologies
 
 ---
 
