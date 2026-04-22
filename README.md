@@ -8,7 +8,7 @@ I am a Deep Learning practitioner working in Multimodal AI. I am passionate abou
 
 ## Currently Learning and Working On...
 
-  1. How LLMs work?
+  1. Cross-Modal Allignment for Caption Generation
   2. Deepfake Detection Methodologies
 
 ---
