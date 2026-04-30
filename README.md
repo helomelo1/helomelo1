@@ -10,6 +10,7 @@ I am a Deep Learning practitioner working in Multimodal AI. I am passionate abou
 
   1. Cross-Modal Allignment for Caption Generation
   2. Deepfake Detection Methodologies
+  3. Incremental Learning
 
 ---
 
