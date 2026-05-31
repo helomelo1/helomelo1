@@ -8,8 +8,8 @@ I am a Deep Learning practitioner working in Multimodal AI. I am passionate abou
 
 ## Currently Learning and Working On...
 
-  1. Incremental Learning
-  2. Exploring Machine Unlearning a little
+  1. Class Incremental Learning
+  2. Machine Unlearning
 
 ---
 
