@@ -9,7 +9,7 @@ I am a Deep Learning practitioner working in Incremental Learning. I am passiona
 ## Currently Learning and Working On...
 
   1. Class Incremental Learning
-  2. Understanding 'n Scaling Language Models and RLHF
+  2. Understanding 'n Scaling Modern Language Models and RLHF
 
 ---
 
